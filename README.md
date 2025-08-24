@@ -12,14 +12,8 @@ This project focuses on replicating the layout and styling of YouTube's interfac
 - HTML5  
 - CSS3 (Flexbox and Grid)
 
-
 ## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/youtube-homepage-clone.git
+1. Download or clone this repository.  
+2. Open the project folder in **VS Code**.  
+3. Right-click on `youtube.html` and select **Open with Live Server** (requires Live Server extension).  
 
----
-
-This keeps it **short, professional, and easy to scan** — exactly what recruiters like.  
-
-Do you want me to also make you a **one-line project description** you can paste directly into your GitHub repo summary (the little gray text under the title)?
