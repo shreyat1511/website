@@ -12,7 +12,6 @@ This project focuses on replicating the layout and styling of YouTube's interfac
 - HTML5  
 - CSS3 (Flexbox and Grid)
 
-## Project Structure
 
 ## How to Run
 1. Clone the repository:
